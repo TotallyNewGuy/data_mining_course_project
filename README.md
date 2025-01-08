@@ -1,1 +1,1 @@
-# data_mining_course_project
+# LLM-Powered Analysis of Reddit Hot Topics
